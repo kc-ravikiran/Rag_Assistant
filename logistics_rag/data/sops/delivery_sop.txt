@@ -1,0 +1,44 @@
+LOGISTICS DELIVERY MANAGEMENT - STANDARD OPERATING PROCEDURES
+================================================================
+
+1. SHIPMENT DELAY HANDLING
+--------------------------
+- A shipment is considered delayed if it exceeds its SLA deadline by more than 30 minutes.
+- Delay thresholds:
+    Level 1 (30–60 min): Driver to attempt re-delivery same day.
+    Level 2 (60–120 min): Notify customer via SMS/email; log reason code.
+    Level 3 (>120 min): Escalate to Delivery Manager; customer compensation eligible.
+- Root causes must be logged: traffic, vehicle breakdown, wrong address, customer unavailable.
+
+2. SLA BREACH PROTOCOL
+----------------------
+- SLA targets: Same Day = 12 hours, Standard = 48 hours, Economy = 72 hours.
+- On SLA breach: Delivery Manager must receive an automated alert.
+- Escalation path: Driver → Hub Supervisor → Delivery Manager → Regional Head.
+- All breached shipments must be reattempted within 4 hours of breach detection.
+
+3. FAILED DELIVERY HANDLING
+----------------------------
+- After 2 failed attempts, shipment is returned to hub.
+- Customer must be contacted within 1 hour of failed attempt.
+- A final delivery window of 48 hours is offered before return-to-origin.
+- Failed delivery reason codes: FA01 (absent), FA02 (wrong address), FA03 (refused), FA04 (access denied).
+
+4. DRIVER PERFORMANCE STANDARDS
+--------------------------------
+- Minimum on-time delivery rate: 90%
+- Maximum allowed delay per shift: 3 delayed shipments
+- Drivers below 85% on-time for 2 consecutive weeks are placed on Performance Improvement Plan (PIP).
+- Top performers (>97% on-time) are eligible for monthly incentive.
+
+5. ROUTE MANAGEMENT
+--------------------
+- Routes are reviewed weekly. High-delay routes are re-optimised by the Route Planning team.
+- Zones with >10% SLA breach rate trigger an immediate zone audit.
+- Route reassignments require 24-hour advance notice to the driver.
+
+6. DAMAGE & RETURNS
+--------------------
+- Damaged shipments must be photographed before return.
+- Damage report submitted via the portal within 2 hours.
+- Customer refund initiated within 3 business days of confirmed damage.

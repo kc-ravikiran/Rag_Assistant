@@ -1,0 +1,201 @@
+shipment_id,order_id,customer_name,origin,destination,carrier,driver_id,driver_name,status,zone,route_code,scheduled_delivery,actual_delivery,delay_minutes,sla_deadline,sla_status,weight_kg,remarks
+SHP00001,ORD925488,Customer 1,Kolkata,Pune,Ecom Express,D001,Ravi Kumar,Returned,Central,RT-South-20,2026-07-24 16:52,,228,2026-07-24 16:52,Breached,7.92,
+SHP00002,ORD222194,Customer 2,Chennai,Delhi,XpressBees,D005,Deepak Singh,Delayed,South,RT-South-18,2026-07-21 16:52,,218,2026-07-21 16:52,Breached,36.41,
+SHP00003,ORD796874,Customer 3,Delhi,Chennai,Ecom Express,D002,Suresh Patel,In Transit,North,RT-North-12,2026-07-28 16:52,,208,2026-07-28 16:52,Breached,21.27,
+SHP00004,ORD520030,Customer 4,Delhi,Chennai,XpressBees,D002,Suresh Patel,Delivered,Central,RT-East-10,2026-07-27 16:52,2026-07-29 16:52,0,2026-07-27 16:52,Met,9.22,
+SHP00005,ORD833493,Customer 5,Chennai,Pune,XpressBees,D006,Kavita Reddy,Out for Delivery,Central,RT-North-08,2026-07-24 16:52,,167,2026-07-24 16:52,Breached,6.59,
+SHP00006,ORD816497,Customer 6,Bangalore,Hyderabad,Delhivery,D002,Suresh Patel,Failed Attempt,Central,RT-South-16,2026-07-21 16:52,,180,2026-07-21 16:52,Breached,26.14,Attempted delivery - customer absent
+SHP00007,ORD589997,Customer 7,Chennai,Mumbai,FedEx,D004,Priya Sharma,Delivered,South,RT-South-11,2026-07-28 16:52,2026-07-29 16:52,0,2026-07-28 16:52,Met,26.85,
+SHP00008,ORD591005,Customer 8,Chennai,Hyderabad,Delhivery,D001,Ravi Kumar,In Transit,North,RT-East-03,2026-07-20 16:52,,173,2026-07-20 16:52,Breached,26.67,
+SHP00009,ORD894024,Customer 9,Kolkata,Bangalore,BlueDart,D003,Anand Verma,Delayed,North,RT-North-02,2026-07-22 16:52,,194,2026-07-22 16:52,Breached,41.98,
+SHP00010,ORD447150,Customer 10,Kolkata,Delhi,Delhivery,D001,Ravi Kumar,Returned,East,RT-North-08,2026-07-20 16:52,,34,2026-07-20 16:52,At Risk,15.17,
+SHP00011,ORD577971,Customer 11,Chennai,Chennai,XpressBees,D006,Kavita Reddy,Delayed,South,RT-East-01,2026-07-22 16:52,,240,2026-07-22 16:52,Breached,11.38,
+SHP00012,ORD717575,Customer 12,Mumbai,Pune,FedEx,D006,Kavita Reddy,Returned,South,RT-South-15,2026-07-27 16:52,,58,2026-07-27 16:52,At Risk,19.22,
+SHP00013,ORD988515,Customer 13,Hyderabad,Bangalore,FedEx,D002,Suresh Patel,Out for Delivery,South,RT-East-16,2026-07-26 16:52,,181,2026-07-26 16:52,Breached,19.02,
+SHP00014,ORD633442,Customer 14,Delhi,Mumbai,BlueDart,D003,Anand Verma,Failed Attempt,South,RT-East-17,2026-07-27 16:52,,168,2026-07-27 16:52,Breached,25.27,Attempted delivery - customer absent
+SHP00015,ORD154735,Customer 15,Delhi,Hyderabad,Ecom Express,D004,Priya Sharma,Failed Attempt,East,RT-South-04,2026-07-20 16:52,,279,2026-07-20 16:52,Breached,49.28,Attempted delivery - customer absent
+SHP00016,ORD278002,Customer 16,Mumbai,Bangalore,DHL,D005,Deepak Singh,Out for Delivery,South,RT-East-16,2026-07-20 16:52,,103,2026-07-20 16:52,Breached,10.3,
+SHP00017,ORD833065,Customer 17,Hyderabad,Delhi,Ecom Express,D003,Anand Verma,Delayed,West,RT-North-14,2026-07-20 16:52,,238,2026-07-20 16:52,Breached,19.21,
+SHP00018,ORD186967,Customer 18,Hyderabad,Mumbai,BlueDart,D002,Suresh Patel,Failed Attempt,North,RT-South-19,2026-07-19 16:52,,255,2026-07-19 16:52,Breached,44.52,Attempted delivery - customer absent
+SHP00019,ORD281277,Customer 19,Kolkata,Bangalore,FedEx,D005,Deepak Singh,Failed Attempt,Central,RT-East-12,2026-07-19 16:52,,75,2026-07-19 16:52,Breached,31.03,Attempted delivery - customer absent
+SHP00020,ORD373327,Customer 20,Delhi,Mumbai,Ecom Express,D004,Priya Sharma,Delayed,South,RT-North-05,2026-07-22 16:52,,121,2026-07-22 16:52,Breached,21.02,
+SHP00021,ORD645379,Customer 21,Chennai,Mumbai,Delhivery,D004,Priya Sharma,Delivered,Central,RT-North-16,2026-07-27 16:52,2026-07-29 16:52,0,2026-07-27 16:52,Met,34.48,
+SHP00022,ORD236343,Customer 22,Chennai,Bangalore,Delhivery,D003,Anand Verma,Out for Delivery,North,RT-South-09,2026-07-26 16:52,,145,2026-07-26 16:52,Breached,15.81,
+SHP00023,ORD658284,Customer 23,Hyderabad,Bangalore,FedEx,D006,Kavita Reddy,Delayed,West,RT-South-08,2026-07-22 16:52,,79,2026-07-22 16:52,Breached,47.46,
+SHP00024,ORD958725,Customer 24,Bangalore,Hyderabad,Ecom Express,D006,Kavita Reddy,In Transit,Central,RT-North-18,2026-07-28 16:52,,185,2026-07-28 16:52,Breached,44.46,
+SHP00025,ORD763382,Customer 25,Mumbai,Pune,Delhivery,D003,Anand Verma,Returned,East,RT-North-16,2026-07-21 16:52,,231,2026-07-21 16:52,Breached,32.78,
+SHP00026,ORD528760,Customer 26,Hyderabad,Hyderabad,Ecom Express,D002,Suresh Patel,Out for Delivery,East,RT-East-15,2026-07-20 16:52,,184,2026-07-20 16:52,Breached,34.92,
+SHP00027,ORD692629,Customer 27,Pune,Bangalore,XpressBees,D004,Priya Sharma,Out for Delivery,West,RT-East-16,2026-07-27 16:52,,57,2026-07-27 16:52,At Risk,25.54,
+SHP00028,ORD636964,Customer 28,Pune,Chennai,DHL,D004,Priya Sharma,Out for Delivery,East,RT-East-03,2026-07-22 16:52,,172,2026-07-22 16:52,Breached,20.24,
+SHP00029,ORD789532,Customer 29,Pune,Bangalore,Ecom Express,D003,Anand Verma,Delayed,South,RT-North-07,2026-07-20 16:52,,95,2026-07-20 16:52,Breached,31.8,
+SHP00030,ORD234179,Customer 30,Bangalore,Kolkata,Delhivery,D004,Priya Sharma,Delivered,North,RT-South-14,2026-07-26 16:52,2026-07-28 16:52,0,2026-07-26 16:52,Met,9.59,
+SHP00031,ORD871753,Customer 31,Bangalore,Kolkata,Ecom Express,D002,Suresh Patel,Returned,South,RT-East-08,2026-07-19 16:52,,62,2026-07-19 16:52,Breached,46.97,
+SHP00032,ORD860056,Customer 32,Kolkata,Pune,XpressBees,D006,Kavita Reddy,Delayed,South,RT-North-10,2026-07-23 16:52,,184,2026-07-23 16:52,Breached,22.11,
+SHP00033,ORD776665,Customer 33,Delhi,Mumbai,XpressBees,D003,Anand Verma,Out for Delivery,South,RT-East-16,2026-07-26 16:52,,151,2026-07-26 16:52,Breached,29.78,
+SHP00034,ORD658565,Customer 34,Hyderabad,Kolkata,FedEx,D003,Anand Verma,Out for Delivery,West,RT-East-19,2026-07-27 16:52,,32,2026-07-27 16:52,At Risk,27.49,
+SHP00035,ORD666395,Customer 35,Kolkata,Hyderabad,FedEx,D003,Anand Verma,Delayed,West,RT-South-13,2026-07-21 16:52,,174,2026-07-21 16:52,Breached,49.05,
+SHP00036,ORD148050,Customer 36,Mumbai,Mumbai,Delhivery,D005,Deepak Singh,In Transit,East,RT-North-20,2026-07-25 16:52,,159,2026-07-25 16:52,Breached,15.99,
+SHP00037,ORD569631,Customer 37,Kolkata,Hyderabad,Ecom Express,D005,Deepak Singh,Failed Attempt,North,RT-South-08,2026-07-22 16:52,,187,2026-07-22 16:52,Breached,29.08,Attempted delivery - customer absent
+SHP00038,ORD387309,Customer 38,Kolkata,Delhi,XpressBees,D002,Suresh Patel,Delivered,North,RT-South-08,2026-07-21 16:52,2026-07-29 16:52,0,2026-07-21 16:52,Met,3.17,
+SHP00039,ORD477821,Customer 39,Pune,Mumbai,DHL,D006,Kavita Reddy,Delivered,West,RT-North-12,2026-07-27 16:52,2026-07-29 16:52,0,2026-07-27 16:52,Met,41.67,
+SHP00040,ORD454152,Customer 40,Pune,Chennai,DHL,D002,Suresh Patel,Failed Attempt,Central,RT-South-03,2026-07-21 16:52,,54,2026-07-21 16:52,At Risk,6.93,Attempted delivery - customer absent
+SHP00041,ORD614604,Customer 41,Chennai,Hyderabad,XpressBees,D005,Deepak Singh,Delivered,South,RT-North-09,2026-07-22 16:52,2026-07-29 16:52,0,2026-07-22 16:52,Met,31.05,
+SHP00042,ORD554018,Customer 42,Bangalore,Kolkata,Delhivery,D005,Deepak Singh,Delayed,West,RT-South-02,2026-07-27 16:52,,219,2026-07-27 16:52,Breached,41.31,
+SHP00043,ORD169323,Customer 43,Hyderabad,Hyderabad,Delhivery,D003,Anand Verma,Failed Attempt,South,RT-East-20,2026-07-26 16:52,,59,2026-07-26 16:52,At Risk,6.8,Attempted delivery - customer absent
+SHP00044,ORD908007,Customer 44,Kolkata,Kolkata,FedEx,D005,Deepak Singh,Failed Attempt,East,RT-East-14,2026-07-24 16:52,,105,2026-07-24 16:52,Breached,45.57,Attempted delivery - customer absent
+SHP00045,ORD978313,Customer 45,Mumbai,Mumbai,Delhivery,D006,Kavita Reddy,Delayed,West,RT-South-20,2026-07-19 16:52,,98,2026-07-19 16:52,Breached,32.59,
+SHP00046,ORD836252,Customer 46,Pune,Hyderabad,FedEx,D001,Ravi Kumar,Failed Attempt,Central,RT-South-09,2026-07-20 16:52,,266,2026-07-20 16:52,Breached,46.6,Attempted delivery - customer absent
+SHP00047,ORD454918,Customer 47,Hyderabad,Mumbai,Delhivery,D006,Kavita Reddy,In Transit,East,RT-South-06,2026-07-21 16:52,,33,2026-07-21 16:52,At Risk,28.05,
+SHP00048,ORD223656,Customer 48,Pune,Mumbai,Delhivery,D001,Ravi Kumar,In Transit,East,RT-North-08,2026-07-28 16:52,,37,2026-07-28 16:52,At Risk,40.17,
+SHP00049,ORD904473,Customer 49,Bangalore,Mumbai,Delhivery,D004,Priya Sharma,Delayed,West,RT-North-17,2026-07-25 16:52,,188,2026-07-25 16:52,Breached,34.69,
+SHP00050,ORD215185,Customer 50,Hyderabad,Mumbai,BlueDart,D001,Ravi Kumar,Out for Delivery,East,RT-East-17,2026-07-19 16:52,,267,2026-07-19 16:52,Breached,15.06,
+SHP00051,ORD770152,Customer 51,Bangalore,Mumbai,DHL,D006,Kavita Reddy,Out for Delivery,East,RT-South-16,2026-07-28 16:52,,7,2026-07-28 16:52,At Risk,39.77,
+SHP00052,ORD424042,Customer 52,Bangalore,Hyderabad,Delhivery,D005,Deepak Singh,In Transit,East,RT-North-15,2026-07-24 16:52,,224,2026-07-24 16:52,Breached,46.48,
+SHP00053,ORD130161,Customer 53,Hyderabad,Pune,FedEx,D002,Suresh Patel,In Transit,North,RT-North-12,2026-07-22 16:52,,151,2026-07-22 16:52,Breached,1.06,
+SHP00054,ORD154128,Customer 54,Delhi,Kolkata,Ecom Express,D002,Suresh Patel,Delayed,North,RT-East-08,2026-07-21 16:52,,255,2026-07-21 16:52,Breached,45.19,
+SHP00055,ORD105471,Customer 55,Pune,Delhi,FedEx,D002,Suresh Patel,Delayed,North,RT-East-18,2026-07-22 16:52,,287,2026-07-22 16:52,Breached,38.4,
+SHP00056,ORD786671,Customer 56,Kolkata,Bangalore,XpressBees,D003,Anand Verma,In Transit,North,RT-South-14,2026-07-19 16:52,,1,2026-07-19 16:52,At Risk,4.75,
+SHP00057,ORD266164,Customer 57,Mumbai,Hyderabad,FedEx,D001,Ravi Kumar,Failed Attempt,South,RT-East-10,2026-07-19 16:52,,190,2026-07-19 16:52,Breached,40.63,Attempted delivery - customer absent
+SHP00058,ORD272343,Customer 58,Chennai,Pune,FedEx,D001,Ravi Kumar,In Transit,West,RT-South-18,2026-07-28 16:52,,288,2026-07-28 16:52,Breached,45.9,
+SHP00059,ORD283759,Customer 59,Kolkata,Mumbai,DHL,D001,Ravi Kumar,Failed Attempt,South,RT-East-16,2026-07-25 16:52,,232,2026-07-25 16:52,Breached,46.28,Attempted delivery - customer absent
+SHP00060,ORD742610,Customer 60,Hyderabad,Kolkata,Ecom Express,D002,Suresh Patel,In Transit,Central,RT-South-10,2026-07-25 16:52,,89,2026-07-25 16:52,Breached,46.09,
+SHP00061,ORD266267,Customer 61,Hyderabad,Chennai,Ecom Express,D006,Kavita Reddy,In Transit,North,RT-North-17,2026-07-22 16:52,,31,2026-07-22 16:52,At Risk,37.14,
+SHP00062,ORD470689,Customer 62,Delhi,Delhi,XpressBees,D006,Kavita Reddy,Returned,East,RT-North-07,2026-07-23 16:52,,276,2026-07-23 16:52,Breached,23.28,
+SHP00063,ORD650827,Customer 63,Pune,Delhi,BlueDart,D004,Priya Sharma,In Transit,West,RT-North-20,2026-07-26 16:52,,300,2026-07-26 16:52,Breached,33.39,
+SHP00064,ORD554570,Customer 64,Mumbai,Kolkata,XpressBees,D002,Suresh Patel,In Transit,East,RT-East-06,2026-07-25 16:52,,299,2026-07-25 16:52,Breached,47.92,
+SHP00065,ORD245684,Customer 65,Pune,Bangalore,BlueDart,D004,Priya Sharma,Failed Attempt,West,RT-South-18,2026-07-24 16:52,,196,2026-07-24 16:52,Breached,28.02,Attempted delivery - customer absent
+SHP00066,ORD562174,Customer 66,Delhi,Delhi,DHL,D006,Kavita Reddy,Returned,West,RT-South-03,2026-07-22 16:52,,107,2026-07-22 16:52,Breached,35.72,
+SHP00067,ORD696764,Customer 67,Pune,Bangalore,BlueDart,D001,Ravi Kumar,Delayed,East,RT-North-03,2026-07-28 16:52,,190,2026-07-28 16:52,Breached,8.7,
+SHP00068,ORD628289,Customer 68,Bangalore,Chennai,FedEx,D002,Suresh Patel,Failed Attempt,North,RT-North-09,2026-07-26 16:52,,37,2026-07-26 16:52,At Risk,43.34,Attempted delivery - customer absent
+SHP00069,ORD440978,Customer 69,Delhi,Chennai,FedEx,D001,Ravi Kumar,Delayed,West,RT-East-11,2026-07-20 16:52,,20,2026-07-20 16:52,At Risk,37.54,
+SHP00070,ORD400260,Customer 70,Hyderabad,Kolkata,FedEx,D006,Kavita Reddy,Delayed,East,RT-East-10,2026-07-22 16:52,,87,2026-07-22 16:52,Breached,22.72,
+SHP00071,ORD828452,Customer 71,Bangalore,Chennai,Delhivery,D002,Suresh Patel,Out for Delivery,East,RT-East-10,2026-07-24 16:52,,213,2026-07-24 16:52,Breached,16.34,
+SHP00072,ORD669536,Customer 72,Hyderabad,Chennai,DHL,D002,Suresh Patel,Out for Delivery,East,RT-South-13,2026-07-25 16:52,,73,2026-07-25 16:52,Breached,40.9,
+SHP00073,ORD166560,Customer 73,Mumbai,Hyderabad,Delhivery,D002,Suresh Patel,Failed Attempt,East,RT-North-20,2026-07-20 16:52,,33,2026-07-20 16:52,At Risk,14.94,Attempted delivery - customer absent
+SHP00074,ORD517443,Customer 74,Kolkata,Delhi,XpressBees,D006,Kavita Reddy,Out for Delivery,South,RT-East-10,2026-07-22 16:52,,122,2026-07-22 16:52,Breached,28.57,
+SHP00075,ORD569819,Customer 75,Mumbai,Bangalore,BlueDart,D006,Kavita Reddy,Failed Attempt,South,RT-East-11,2026-07-28 16:52,,29,2026-07-28 16:52,At Risk,16.23,Attempted delivery - customer absent
+SHP00076,ORD695519,Customer 76,Kolkata,Mumbai,DHL,D006,Kavita Reddy,Returned,West,RT-East-06,2026-07-26 16:52,,235,2026-07-26 16:52,Breached,10.47,
+SHP00077,ORD361034,Customer 77,Mumbai,Kolkata,Delhivery,D002,Suresh Patel,Delivered,West,RT-North-11,2026-07-26 16:52,2026-07-28 16:52,0,2026-07-26 16:52,Met,49.55,
+SHP00078,ORD865051,Customer 78,Hyderabad,Mumbai,BlueDart,D003,Anand Verma,In Transit,North,RT-East-04,2026-07-27 16:52,,220,2026-07-27 16:52,Breached,49.74,
+SHP00079,ORD538400,Customer 79,Hyderabad,Hyderabad,Delhivery,D005,Deepak Singh,Returned,West,RT-East-15,2026-07-22 16:52,,117,2026-07-22 16:52,Breached,17.27,
+SHP00080,ORD179210,Customer 80,Kolkata,Bangalore,BlueDart,D003,Anand Verma,Failed Attempt,North,RT-South-13,2026-07-28 16:52,,277,2026-07-28 16:52,Breached,39.49,Attempted delivery - customer absent
+SHP00081,ORD328663,Customer 81,Bangalore,Delhi,DHL,D005,Deepak Singh,Returned,Central,RT-North-12,2026-07-21 16:52,,262,2026-07-21 16:52,Breached,28.35,
+SHP00082,ORD971810,Customer 82,Bangalore,Kolkata,BlueDart,D005,Deepak Singh,Failed Attempt,North,RT-South-15,2026-07-27 16:52,,113,2026-07-27 16:52,Breached,24.8,Attempted delivery - customer absent
+SHP00083,ORD609605,Customer 83,Pune,Bangalore,BlueDart,D001,Ravi Kumar,Out for Delivery,West,RT-North-01,2026-07-22 16:52,,18,2026-07-22 16:52,At Risk,13.06,
+SHP00084,ORD208839,Customer 84,Hyderabad,Mumbai,BlueDart,D001,Ravi Kumar,Out for Delivery,East,RT-North-05,2026-07-21 16:52,,123,2026-07-21 16:52,Breached,24.42,
+SHP00085,ORD664754,Customer 85,Chennai,Hyderabad,Ecom Express,D001,Ravi Kumar,Out for Delivery,South,RT-South-09,2026-07-23 16:52,,187,2026-07-23 16:52,Breached,39.8,
+SHP00086,ORD235294,Customer 86,Pune,Pune,BlueDart,D006,Kavita Reddy,Returned,North,RT-South-12,2026-07-26 16:52,,173,2026-07-26 16:52,Breached,8.19,
+SHP00087,ORD786942,Customer 87,Hyderabad,Pune,Delhivery,D005,Deepak Singh,Delivered,North,RT-North-15,2026-07-22 16:52,2026-07-29 16:52,0,2026-07-22 16:52,Met,10.3,
+SHP00088,ORD783029,Customer 88,Bangalore,Pune,XpressBees,D001,Ravi Kumar,Delivered,North,RT-North-10,2026-07-19 16:52,2026-07-29 16:52,0,2026-07-19 16:52,Met,44.46,
+SHP00089,ORD482183,Customer 89,Mumbai,Mumbai,XpressBees,D006,Kavita Reddy,Returned,East,RT-South-19,2026-07-28 16:52,,278,2026-07-28 16:52,Breached,46.23,
+SHP00090,ORD651807,Customer 90,Hyderabad,Bangalore,Delhivery,D002,Suresh Patel,Failed Attempt,North,RT-East-13,2026-07-23 16:52,,20,2026-07-23 16:52,At Risk,14.43,Attempted delivery - customer absent
+SHP00091,ORD553543,Customer 91,Kolkata,Mumbai,BlueDart,D006,Kavita Reddy,Returned,East,RT-North-15,2026-07-19 16:52,,156,2026-07-19 16:52,Breached,42.6,
+SHP00092,ORD371030,Customer 92,Pune,Pune,XpressBees,D005,Deepak Singh,Delivered,South,RT-East-04,2026-07-21 16:52,2026-07-28 16:52,0,2026-07-21 16:52,Met,44.5,
+SHP00093,ORD942796,Customer 93,Pune,Mumbai,Ecom Express,D005,Deepak Singh,Returned,North,RT-North-19,2026-07-28 16:52,,56,2026-07-28 16:52,At Risk,10.43,
+SHP00094,ORD240931,Customer 94,Kolkata,Mumbai,FedEx,D002,Suresh Patel,Delivered,North,RT-North-06,2026-07-19 16:52,2026-07-29 16:52,0,2026-07-19 16:52,Met,8.57,
+SHP00095,ORD413704,Customer 95,Mumbai,Pune,BlueDart,D006,Kavita Reddy,Failed Attempt,North,RT-South-14,2026-07-21 16:52,,205,2026-07-21 16:52,Breached,10.65,Attempted delivery - customer absent
+SHP00096,ORD578837,Customer 96,Mumbai,Bangalore,DHL,D003,Anand Verma,Delivered,Central,RT-East-09,2026-07-28 16:52,2026-07-29 16:52,0,2026-07-28 16:52,Met,40.12,
+SHP00097,ORD119419,Customer 97,Bangalore,Pune,XpressBees,D005,Deepak Singh,In Transit,North,RT-North-14,2026-07-20 16:52,,50,2026-07-20 16:52,At Risk,36.73,
+SHP00098,ORD246769,Customer 98,Pune,Kolkata,DHL,D001,Ravi Kumar,In Transit,West,RT-South-11,2026-07-19 16:52,,185,2026-07-19 16:52,Breached,18.37,
+SHP00099,ORD716044,Customer 99,Kolkata,Chennai,FedEx,D003,Anand Verma,In Transit,Central,RT-East-05,2026-07-27 16:52,,245,2026-07-27 16:52,Breached,25.18,
+SHP00100,ORD925637,Customer 100,Pune,Kolkata,Ecom Express,D004,Priya Sharma,Delivered,South,RT-East-13,2026-07-20 16:52,2026-07-29 16:52,0,2026-07-20 16:52,Met,47.27,
+SHP00101,ORD234077,Customer 101,Hyderabad,Mumbai,FedEx,D001,Ravi Kumar,Out for Delivery,North,RT-North-01,2026-07-25 16:52,,2,2026-07-25 16:52,At Risk,44.44,
+SHP00102,ORD743508,Customer 102,Kolkata,Bangalore,BlueDart,D006,Kavita Reddy,In Transit,North,RT-North-14,2026-07-20 16:52,,203,2026-07-20 16:52,Breached,28.64,
+SHP00103,ORD245205,Customer 103,Hyderabad,Delhi,Delhivery,D001,Ravi Kumar,In Transit,North,RT-South-19,2026-07-28 16:52,,294,2026-07-28 16:52,Breached,8.08,
+SHP00104,ORD899677,Customer 104,Pune,Pune,BlueDart,D006,Kavita Reddy,Delivered,West,RT-East-08,2026-07-28 16:52,2026-07-29 16:52,0,2026-07-28 16:52,Met,31.67,
+SHP00105,ORD240265,Customer 105,Bangalore,Pune,FedEx,D003,Anand Verma,In Transit,North,RT-North-12,2026-07-19 16:52,,224,2026-07-19 16:52,Breached,45.32,
+SHP00106,ORD157659,Customer 106,Mumbai,Bangalore,BlueDart,D004,Priya Sharma,Out for Delivery,West,RT-North-12,2026-07-27 16:52,,215,2026-07-27 16:52,Breached,47.99,
+SHP00107,ORD804821,Customer 107,Bangalore,Hyderabad,FedEx,D003,Anand Verma,Delivered,South,RT-East-04,2026-07-23 16:52,2026-07-28 16:52,0,2026-07-23 16:52,Met,41.0,
+SHP00108,ORD785456,Customer 108,Chennai,Bangalore,DHL,D005,Deepak Singh,Delayed,North,RT-North-01,2026-07-19 16:52,,150,2026-07-19 16:52,Breached,25.14,
+SHP00109,ORD719828,Customer 109,Hyderabad,Mumbai,BlueDart,D006,Kavita Reddy,Returned,North,RT-North-05,2026-07-27 16:52,,224,2026-07-27 16:52,Breached,22.77,
+SHP00110,ORD519546,Customer 110,Chennai,Mumbai,FedEx,D005,Deepak Singh,Delayed,West,RT-East-09,2026-07-20 16:52,,235,2026-07-20 16:52,Breached,32.69,
+SHP00111,ORD829726,Customer 111,Delhi,Hyderabad,BlueDart,D003,Anand Verma,Delayed,West,RT-East-11,2026-07-23 16:52,,215,2026-07-23 16:52,Breached,20.8,
+SHP00112,ORD194991,Customer 112,Mumbai,Delhi,Ecom Express,D005,Deepak Singh,Delayed,East,RT-North-02,2026-07-22 16:52,,159,2026-07-22 16:52,Breached,27.07,
+SHP00113,ORD335945,Customer 113,Pune,Mumbai,XpressBees,D002,Suresh Patel,Out for Delivery,West,RT-North-07,2026-07-20 16:52,,116,2026-07-20 16:52,Breached,1.47,
+SHP00114,ORD260860,Customer 114,Delhi,Pune,Delhivery,D006,Kavita Reddy,Failed Attempt,East,RT-South-14,2026-07-22 16:52,,88,2026-07-22 16:52,Breached,32.63,Attempted delivery - customer absent
+SHP00115,ORD135453,Customer 115,Kolkata,Chennai,FedEx,D001,Ravi Kumar,Out for Delivery,Central,RT-East-06,2026-07-21 16:52,,229,2026-07-21 16:52,Breached,38.55,
+SHP00116,ORD463267,Customer 116,Mumbai,Bangalore,Ecom Express,D002,Suresh Patel,Out for Delivery,North,RT-East-15,2026-07-25 16:52,,83,2026-07-25 16:52,Breached,25.87,
+SHP00117,ORD365961,Customer 117,Pune,Mumbai,BlueDart,D005,Deepak Singh,Failed Attempt,East,RT-North-03,2026-07-27 16:52,,85,2026-07-27 16:52,Breached,44.55,Attempted delivery - customer absent
+SHP00118,ORD629234,Customer 118,Delhi,Bangalore,DHL,D001,Ravi Kumar,Delivered,West,RT-South-10,2026-07-26 16:52,2026-07-28 16:52,0,2026-07-26 16:52,Met,15.8,
+SHP00119,ORD577888,Customer 119,Delhi,Bangalore,BlueDart,D001,Ravi Kumar,Delayed,Central,RT-East-13,2026-07-24 16:52,,13,2026-07-24 16:52,At Risk,4.29,
+SHP00120,ORD353144,Customer 120,Bangalore,Pune,DHL,D004,Priya Sharma,Returned,Central,RT-South-20,2026-07-23 16:52,,225,2026-07-23 16:52,Breached,30.08,
+SHP00121,ORD289131,Customer 121,Kolkata,Bangalore,Delhivery,D003,Anand Verma,Delivered,Central,RT-South-11,2026-07-19 16:52,2026-07-29 16:52,0,2026-07-19 16:52,Met,42.74,
+SHP00122,ORD764724,Customer 122,Bangalore,Chennai,DHL,D004,Priya Sharma,In Transit,Central,RT-East-01,2026-07-24 16:52,,230,2026-07-24 16:52,Breached,40.57,
+SHP00123,ORD547111,Customer 123,Bangalore,Hyderabad,XpressBees,D006,Kavita Reddy,Out for Delivery,South,RT-North-12,2026-07-26 16:52,,51,2026-07-26 16:52,At Risk,35.38,
+SHP00124,ORD754457,Customer 124,Chennai,Bangalore,DHL,D003,Anand Verma,In Transit,West,RT-East-18,2026-07-24 16:52,,37,2026-07-24 16:52,At Risk,40.69,
+SHP00125,ORD690928,Customer 125,Hyderabad,Pune,Ecom Express,D002,Suresh Patel,Delivered,Central,RT-South-16,2026-07-28 16:52,2026-07-29 16:52,0,2026-07-28 16:52,Met,17.47,
+SHP00126,ORD571295,Customer 126,Mumbai,Delhi,XpressBees,D005,Deepak Singh,Delayed,South,RT-South-05,2026-07-22 16:52,,296,2026-07-22 16:52,Breached,9.96,
+SHP00127,ORD130824,Customer 127,Delhi,Hyderabad,Ecom Express,D005,Deepak Singh,Delivered,West,RT-North-16,2026-07-24 16:52,2026-07-29 16:52,0,2026-07-24 16:52,Met,45.24,
+SHP00128,ORD527767,Customer 128,Mumbai,Delhi,FedEx,D004,Priya Sharma,Failed Attempt,West,RT-South-09,2026-07-28 16:52,,141,2026-07-28 16:52,Breached,31.21,Attempted delivery - customer absent
+SHP00129,ORD104629,Customer 129,Kolkata,Delhi,DHL,D005,Deepak Singh,In Transit,Central,RT-North-16,2026-07-22 16:52,,177,2026-07-22 16:52,Breached,15.41,
+SHP00130,ORD768572,Customer 130,Kolkata,Pune,XpressBees,D003,Anand Verma,Delayed,South,RT-East-13,2026-07-19 16:52,,273,2026-07-19 16:52,Breached,31.89,
+SHP00131,ORD589271,Customer 131,Pune,Kolkata,BlueDart,D006,Kavita Reddy,Out for Delivery,Central,RT-East-06,2026-07-25 16:52,,31,2026-07-25 16:52,At Risk,45.2,
+SHP00132,ORD298787,Customer 132,Chennai,Delhi,DHL,D003,Anand Verma,Returned,Central,RT-South-05,2026-07-26 16:52,,148,2026-07-26 16:52,Breached,14.27,
+SHP00133,ORD629687,Customer 133,Pune,Kolkata,DHL,D004,Priya Sharma,Delayed,West,RT-East-05,2026-07-25 16:52,,41,2026-07-25 16:52,At Risk,26.61,
+SHP00134,ORD796596,Customer 134,Chennai,Bangalore,DHL,D006,Kavita Reddy,Returned,East,RT-East-13,2026-07-25 16:52,,220,2026-07-25 16:52,Breached,38.03,
+SHP00135,ORD330944,Customer 135,Bangalore,Mumbai,BlueDart,D001,Ravi Kumar,Returned,North,RT-East-04,2026-07-26 16:52,,196,2026-07-26 16:52,Breached,0.99,
+SHP00136,ORD327107,Customer 136,Bangalore,Bangalore,Ecom Express,D003,Anand Verma,Delayed,South,RT-South-12,2026-07-20 16:52,,99,2026-07-20 16:52,Breached,42.19,
+SHP00137,ORD156169,Customer 137,Hyderabad,Bangalore,Ecom Express,D005,Deepak Singh,Failed Attempt,Central,RT-South-19,2026-07-20 16:52,,236,2026-07-20 16:52,Breached,19.21,Attempted delivery - customer absent
+SHP00138,ORD342787,Customer 138,Kolkata,Pune,BlueDart,D001,Ravi Kumar,Out for Delivery,South,RT-North-12,2026-07-22 16:52,,264,2026-07-22 16:52,Breached,8.23,
+SHP00139,ORD356225,Customer 139,Pune,Hyderabad,XpressBees,D001,Ravi Kumar,Failed Attempt,North,RT-South-08,2026-07-22 16:52,,149,2026-07-22 16:52,Breached,47.02,Attempted delivery - customer absent
+SHP00140,ORD258010,Customer 140,Hyderabad,Hyderabad,BlueDart,D004,Priya Sharma,Failed Attempt,South,RT-East-07,2026-07-26 16:52,,16,2026-07-26 16:52,At Risk,45.51,Attempted delivery - customer absent
+SHP00141,ORD565354,Customer 141,Mumbai,Hyderabad,DHL,D002,Suresh Patel,Failed Attempt,South,RT-East-06,2026-07-23 16:52,,1,2026-07-23 16:52,At Risk,28.06,Attempted delivery - customer absent
+SHP00142,ORD135429,Customer 142,Chennai,Kolkata,Delhivery,D003,Anand Verma,Delivered,South,RT-South-04,2026-07-21 16:52,2026-07-28 16:52,0,2026-07-21 16:52,Met,29.6,
+SHP00143,ORD787024,Customer 143,Bangalore,Bangalore,FedEx,D004,Priya Sharma,Delayed,West,RT-East-19,2026-07-25 16:52,,220,2026-07-25 16:52,Breached,44.42,
+SHP00144,ORD226874,Customer 144,Hyderabad,Chennai,DHL,D003,Anand Verma,Delivered,East,RT-North-08,2026-07-19 16:52,2026-07-28 16:52,0,2026-07-19 16:52,Met,13.17,
+SHP00145,ORD921064,Customer 145,Pune,Mumbai,Ecom Express,D005,Deepak Singh,Failed Attempt,East,RT-North-06,2026-07-23 16:52,,29,2026-07-23 16:52,At Risk,32.98,Attempted delivery - customer absent
+SHP00146,ORD943278,Customer 146,Kolkata,Mumbai,Ecom Express,D003,Anand Verma,Delayed,Central,RT-North-02,2026-07-25 16:52,,118,2026-07-25 16:52,Breached,35.67,
+SHP00147,ORD373628,Customer 147,Kolkata,Hyderabad,DHL,D006,Kavita Reddy,Delayed,South,RT-East-10,2026-07-26 16:52,,170,2026-07-26 16:52,Breached,28.2,
+SHP00148,ORD116873,Customer 148,Pune,Mumbai,DHL,D002,Suresh Patel,Returned,Central,RT-North-16,2026-07-26 16:52,,77,2026-07-26 16:52,Breached,44.67,
+SHP00149,ORD124456,Customer 149,Pune,Kolkata,XpressBees,D001,Ravi Kumar,Failed Attempt,Central,RT-South-13,2026-07-19 16:52,,36,2026-07-19 16:52,At Risk,39.54,Attempted delivery - customer absent
+SHP00150,ORD842575,Customer 150,Pune,Mumbai,Ecom Express,D004,Priya Sharma,In Transit,Central,RT-North-02,2026-07-24 16:52,,268,2026-07-24 16:52,Breached,8.92,
+SHP00151,ORD297188,Customer 151,Chennai,Mumbai,FedEx,D004,Priya Sharma,Delayed,South,RT-East-11,2026-07-28 16:52,,164,2026-07-28 16:52,Breached,40.85,
+SHP00152,ORD232776,Customer 152,Pune,Delhi,XpressBees,D006,Kavita Reddy,Returned,East,RT-North-17,2026-07-25 16:52,,84,2026-07-25 16:52,Breached,40.62,
+SHP00153,ORD613607,Customer 153,Hyderabad,Bangalore,DHL,D006,Kavita Reddy,Delivered,East,RT-South-02,2026-07-24 16:52,2026-07-29 16:52,0,2026-07-24 16:52,Met,7.15,
+SHP00154,ORD382474,Customer 154,Hyderabad,Pune,FedEx,D004,Priya Sharma,In Transit,South,RT-East-07,2026-07-27 16:52,,116,2026-07-27 16:52,Breached,13.67,
+SHP00155,ORD978231,Customer 155,Delhi,Chennai,FedEx,D002,Suresh Patel,Returned,South,RT-East-09,2026-07-22 16:52,,98,2026-07-22 16:52,Breached,38.93,
+SHP00156,ORD788821,Customer 156,Pune,Hyderabad,DHL,D005,Deepak Singh,In Transit,South,RT-South-08,2026-07-22 16:52,,213,2026-07-22 16:52,Breached,42.91,
+SHP00157,ORD202723,Customer 157,Hyderabad,Kolkata,XpressBees,D003,Anand Verma,Delivered,Central,RT-East-02,2026-07-26 16:52,2026-07-29 16:52,0,2026-07-26 16:52,Met,8.7,
+SHP00158,ORD313408,Customer 158,Mumbai,Hyderabad,FedEx,D002,Suresh Patel,Out for Delivery,North,RT-South-11,2026-07-27 16:52,,238,2026-07-27 16:52,Breached,40.04,
+SHP00159,ORD614388,Customer 159,Pune,Hyderabad,XpressBees,D002,Suresh Patel,Failed Attempt,East,RT-South-17,2026-07-21 16:52,,94,2026-07-21 16:52,Breached,4.58,Attempted delivery - customer absent
+SHP00160,ORD652215,Customer 160,Pune,Kolkata,Ecom Express,D005,Deepak Singh,Failed Attempt,North,RT-East-12,2026-07-24 16:52,,132,2026-07-24 16:52,Breached,1.24,Attempted delivery - customer absent
+SHP00161,ORD427049,Customer 161,Bangalore,Chennai,Ecom Express,D002,Suresh Patel,In Transit,North,RT-East-13,2026-07-25 16:52,,25,2026-07-25 16:52,At Risk,28.12,
+SHP00162,ORD618930,Customer 162,Kolkata,Hyderabad,BlueDart,D006,Kavita Reddy,In Transit,Central,RT-North-08,2026-07-19 16:52,,149,2026-07-19 16:52,Breached,44.06,
+SHP00163,ORD331198,Customer 163,Kolkata,Delhi,Ecom Express,D005,Deepak Singh,Delayed,East,RT-North-14,2026-07-19 16:52,,267,2026-07-19 16:52,Breached,28.35,
+SHP00164,ORD379691,Customer 164,Kolkata,Hyderabad,Delhivery,D003,Anand Verma,In Transit,South,RT-South-18,2026-07-20 16:52,,278,2026-07-20 16:52,Breached,28.13,
+SHP00165,ORD218486,Customer 165,Pune,Mumbai,Delhivery,D002,Suresh Patel,Delayed,West,RT-East-09,2026-07-23 16:52,,106,2026-07-23 16:52,Breached,37.17,
+SHP00166,ORD270153,Customer 166,Mumbai,Chennai,Ecom Express,D002,Suresh Patel,Returned,North,RT-East-14,2026-07-27 16:52,,53,2026-07-27 16:52,At Risk,33.1,
+SHP00167,ORD543314,Customer 167,Mumbai,Delhi,Ecom Express,D002,Suresh Patel,Failed Attempt,Central,RT-North-06,2026-07-20 16:52,,8,2026-07-20 16:52,At Risk,17.58,Attempted delivery - customer absent
+SHP00168,ORD649593,Customer 168,Bangalore,Chennai,FedEx,D004,Priya Sharma,Failed Attempt,Central,RT-East-13,2026-07-25 16:52,,19,2026-07-25 16:52,At Risk,8.89,Attempted delivery - customer absent
+SHP00169,ORD402544,Customer 169,Mumbai,Bangalore,Delhivery,D003,Anand Verma,Returned,South,RT-East-15,2026-07-26 16:52,,277,2026-07-26 16:52,Breached,13.8,
+SHP00170,ORD354602,Customer 170,Delhi,Mumbai,BlueDart,D005,Deepak Singh,Out for Delivery,East,RT-South-05,2026-07-25 16:52,,57,2026-07-25 16:52,At Risk,30.96,
+SHP00171,ORD615295,Customer 171,Bangalore,Kolkata,BlueDart,D001,Ravi Kumar,In Transit,North,RT-South-10,2026-07-26 16:52,,117,2026-07-26 16:52,Breached,32.86,
+SHP00172,ORD195030,Customer 172,Kolkata,Mumbai,FedEx,D003,Anand Verma,Returned,North,RT-North-03,2026-07-19 16:52,,217,2026-07-19 16:52,Breached,36.84,
+SHP00173,ORD438298,Customer 173,Chennai,Hyderabad,FedEx,D006,Kavita Reddy,Delayed,North,RT-South-09,2026-07-27 16:52,,258,2026-07-27 16:52,Breached,44.23,
+SHP00174,ORD242081,Customer 174,Pune,Bangalore,Ecom Express,D003,Anand Verma,Failed Attempt,South,RT-East-04,2026-07-21 16:52,,279,2026-07-21 16:52,Breached,19.4,Attempted delivery - customer absent
+SHP00175,ORD765655,Customer 175,Delhi,Pune,XpressBees,D004,Priya Sharma,Failed Attempt,Central,RT-North-19,2026-07-20 16:52,,223,2026-07-20 16:52,Breached,5.7,Attempted delivery - customer absent
+SHP00176,ORD168316,Customer 176,Kolkata,Mumbai,Ecom Express,D004,Priya Sharma,Returned,Central,RT-South-07,2026-07-24 16:52,,225,2026-07-24 16:52,Breached,17.51,
+SHP00177,ORD759844,Customer 177,Mumbai,Kolkata,Ecom Express,D002,Suresh Patel,Returned,South,RT-North-09,2026-07-26 16:52,,281,2026-07-26 16:52,Breached,34.8,
+SHP00178,ORD523160,Customer 178,Mumbai,Mumbai,Ecom Express,D001,Ravi Kumar,Delivered,Central,RT-South-03,2026-07-22 16:52,2026-07-28 16:52,0,2026-07-22 16:52,Met,47.86,
+SHP00179,ORD459400,Customer 179,Pune,Delhi,DHL,D006,Kavita Reddy,Delayed,South,RT-East-14,2026-07-26 16:52,,285,2026-07-26 16:52,Breached,41.23,
+SHP00180,ORD494949,Customer 180,Kolkata,Kolkata,DHL,D001,Ravi Kumar,Delivered,South,RT-East-16,2026-07-27 16:52,2026-07-28 16:52,0,2026-07-27 16:52,Met,6.21,
+SHP00181,ORD495027,Customer 181,Pune,Hyderabad,DHL,D006,Kavita Reddy,In Transit,East,RT-East-05,2026-07-27 16:52,,25,2026-07-27 16:52,At Risk,27.95,
+SHP00182,ORD101115,Customer 182,Hyderabad,Chennai,Delhivery,D002,Suresh Patel,Failed Attempt,East,RT-East-03,2026-07-24 16:52,,250,2026-07-24 16:52,Breached,32.12,Attempted delivery - customer absent
+SHP00183,ORD606344,Customer 183,Delhi,Pune,DHL,D005,Deepak Singh,Delivered,North,RT-East-13,2026-07-26 16:52,2026-07-29 16:52,0,2026-07-26 16:52,Met,26.11,
+SHP00184,ORD636027,Customer 184,Kolkata,Chennai,DHL,D004,Priya Sharma,Out for Delivery,East,RT-South-19,2026-07-24 16:52,,27,2026-07-24 16:52,At Risk,1.82,
+SHP00185,ORD858709,Customer 185,Hyderabad,Pune,Ecom Express,D003,Anand Verma,Delayed,West,RT-South-20,2026-07-24 16:52,,275,2026-07-24 16:52,Breached,13.15,
+SHP00186,ORD590032,Customer 186,Kolkata,Delhi,Ecom Express,D004,Priya Sharma,In Transit,South,RT-South-03,2026-07-19 16:52,,241,2026-07-19 16:52,Breached,6.8,
+SHP00187,ORD485911,Customer 187,Bangalore,Delhi,DHL,D003,Anand Verma,Returned,North,RT-North-17,2026-07-20 16:52,,96,2026-07-20 16:52,Breached,49.74,
+SHP00188,ORD230141,Customer 188,Pune,Chennai,DHL,D005,Deepak Singh,Delayed,West,RT-North-20,2026-07-26 16:52,,165,2026-07-26 16:52,Breached,36.92,
+SHP00189,ORD650287,Customer 189,Chennai,Pune,XpressBees,D005,Deepak Singh,In Transit,West,RT-North-02,2026-07-20 16:52,,130,2026-07-20 16:52,Breached,20.64,
+SHP00190,ORD857665,Customer 190,Chennai,Mumbai,XpressBees,D005,Deepak Singh,Failed Attempt,North,RT-North-01,2026-07-25 16:52,,162,2026-07-25 16:52,Breached,34.85,Attempted delivery - customer absent
+SHP00191,ORD118764,Customer 191,Pune,Hyderabad,Delhivery,D002,Suresh Patel,Out for Delivery,North,RT-North-04,2026-07-20 16:52,,104,2026-07-20 16:52,Breached,22.67,
+SHP00192,ORD906893,Customer 192,Pune,Bangalore,DHL,D003,Anand Verma,Delayed,North,RT-South-08,2026-07-26 16:52,,284,2026-07-26 16:52,Breached,21.14,
+SHP00193,ORD428674,Customer 193,Hyderabad,Delhi,Delhivery,D003,Anand Verma,Returned,East,RT-South-05,2026-07-19 16:52,,2,2026-07-19 16:52,At Risk,49.06,
+SHP00194,ORD979048,Customer 194,Kolkata,Bangalore,Ecom Express,D002,Suresh Patel,In Transit,Central,RT-South-20,2026-07-28 16:52,,45,2026-07-28 16:52,At Risk,32.75,
+SHP00195,ORD490411,Customer 195,Mumbai,Hyderabad,Ecom Express,D004,Priya Sharma,Delayed,West,RT-North-04,2026-07-28 16:52,,44,2026-07-28 16:52,At Risk,21.98,
+SHP00196,ORD349794,Customer 196,Kolkata,Delhi,DHL,D006,Kavita Reddy,Failed Attempt,North,RT-South-06,2026-07-20 16:52,,270,2026-07-20 16:52,Breached,29.1,Attempted delivery - customer absent
+SHP00197,ORD235013,Customer 197,Delhi,Mumbai,Delhivery,D001,Ravi Kumar,In Transit,East,RT-East-03,2026-07-25 16:52,,105,2026-07-25 16:52,Breached,5.79,
+SHP00198,ORD984202,Customer 198,Mumbai,Mumbai,XpressBees,D006,Kavita Reddy,In Transit,South,RT-East-18,2026-07-24 16:52,,298,2026-07-24 16:52,Breached,32.81,
+SHP00199,ORD384701,Customer 199,Hyderabad,Kolkata,XpressBees,D001,Ravi Kumar,Returned,Central,RT-East-04,2026-07-19 16:52,,128,2026-07-19 16:52,Breached,20.58,
+SHP00200,ORD906805,Customer 200,Pune,Delhi,FedEx,D005,Deepak Singh,Out for Delivery,West,RT-East-02,2026-07-23 16:52,,39,2026-07-23 16:52,At Risk,47.94,

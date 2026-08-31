@@ -1,0 +1,301 @@
+log_id,timestamp,shipment_id,event,driver_id,driver_name,location,zone,notes
+LOG000001,2026-07-29 16:52,SHP00038,Returned to Hub,D003,Anand Verma,Hyderabad,East,
+LOG000002,2026-07-28 16:52,SHP00072,Picked Up,D004,Priya Sharma,Chennai,South,Traffic delay
+LOG000003,2026-07-28 16:52,SHP00130,Out for Delivery,D003,Anand Verma,Chennai,East,
+LOG000004,2026-07-28 16:52,SHP00035,Delivered,D003,Anand Verma,Bangalore,West,Traffic delay
+LOG000005,2026-07-27 16:52,SHP00065,Delivery Failed,D002,Suresh Patel,Pune,South,Customer not available
+LOG000006,2026-07-27 16:52,SHP00160,Delivery Failed,D003,Anand Verma,Delhi,South,
+LOG000007,2026-07-27 16:52,SHP00154,Picked Up,D004,Priya Sharma,Delhi,South,Customer not available
+LOG000008,2026-07-28 16:52,SHP00159,Picked Up,D005,Deepak Singh,Hyderabad,East,Customer not available
+LOG000009,2026-07-27 16:52,SHP00196,Delivery Failed,D001,Ravi Kumar,Kolkata,Central,Traffic delay
+LOG000010,2026-07-27 16:52,SHP00104,Picked Up,D002,Suresh Patel,Kolkata,East,
+LOG000011,2026-07-29 16:52,SHP00108,Out for Delivery,D002,Suresh Patel,Bangalore,West,Wrong address
+LOG000012,2026-07-29 16:52,SHP00088,Returned to Hub,D004,Priya Sharma,Delhi,West,Traffic delay
+LOG000013,2026-07-27 16:52,SHP00193,Delivery Failed,D004,Priya Sharma,Hyderabad,West,Wrong address
+LOG000014,2026-07-29 16:52,SHP00077,Out for Delivery,D001,Ravi Kumar,Bangalore,South,Wrong address
+LOG000015,2026-07-28 16:52,SHP00180,In Transit,D002,Suresh Patel,Pune,Central,Traffic delay
+LOG000016,2026-07-27 16:52,SHP00195,Delivery Failed,D001,Ravi Kumar,Bangalore,Central,Wrong address
+LOG000017,2026-07-28 16:52,SHP00146,Returned to Hub,D004,Priya Sharma,Mumbai,South,Wrong address
+LOG000018,2026-07-28 16:52,SHP00055,Picked Up,D002,Suresh Patel,Pune,North,
+LOG000019,2026-07-28 16:52,SHP00027,Picked Up,D006,Kavita Reddy,Kolkata,East,
+LOG000020,2026-07-28 16:52,SHP00167,Picked Up,D006,Kavita Reddy,Kolkata,South,Traffic delay
+LOG000021,2026-07-27 16:52,SHP00118,Delivered,D003,Anand Verma,Bangalore,Central,
+LOG000022,2026-07-29 16:52,SHP00194,Picked Up,D002,Suresh Patel,Delhi,North,
+LOG000023,2026-07-28 16:52,SHP00125,Returned to Hub,D006,Kavita Reddy,Kolkata,East,Wrong address
+LOG000024,2026-07-27 16:52,SHP00023,Returned to Hub,D002,Suresh Patel,Kolkata,North,Traffic delay
+LOG000025,2026-07-27 16:52,SHP00029,Picked Up,D005,Deepak Singh,Chennai,Central,Traffic delay
+LOG000026,2026-07-27 16:52,SHP00027,In Transit,D003,Anand Verma,Mumbai,South,Traffic delay
+LOG000027,2026-07-27 16:52,SHP00006,Delivered,D001,Ravi Kumar,Kolkata,East,
+LOG000028,2026-07-28 16:52,SHP00118,Returned to Hub,D006,Kavita Reddy,Pune,Central,Customer not available
+LOG000029,2026-07-29 16:52,SHP00055,Out for Delivery,D005,Deepak Singh,Delhi,West,
+LOG000030,2026-07-28 16:52,SHP00018,Out for Delivery,D001,Ravi Kumar,Hyderabad,East,Traffic delay
+LOG000031,2026-07-27 16:52,SHP00148,Delivery Failed,D006,Kavita Reddy,Pune,East,Traffic delay
+LOG000032,2026-07-27 16:52,SHP00038,Out for Delivery,D005,Deepak Singh,Kolkata,West,
+LOG000033,2026-07-28 16:52,SHP00042,In Transit,D005,Deepak Singh,Pune,South,Wrong address
+LOG000034,2026-07-28 16:52,SHP00017,Delivered,D001,Ravi Kumar,Delhi,Central,Customer not available
+LOG000035,2026-07-28 16:52,SHP00053,Picked Up,D004,Priya Sharma,Chennai,West,Customer not available
+LOG000036,2026-07-29 16:52,SHP00173,In Transit,D001,Ravi Kumar,Chennai,East,
+LOG000037,2026-07-27 16:52,SHP00018,Delivery Failed,D005,Deepak Singh,Mumbai,North,Customer not available
+LOG000038,2026-07-28 16:52,SHP00048,Delivery Failed,D005,Deepak Singh,Chennai,North,
+LOG000039,2026-07-27 16:52,SHP00084,Delivered,D004,Priya Sharma,Hyderabad,South,Wrong address
+LOG000040,2026-07-28 16:52,SHP00075,Delivered,D002,Suresh Patel,Delhi,West,Wrong address
+LOG000041,2026-07-27 16:52,SHP00087,Delivery Failed,D004,Priya Sharma,Bangalore,West,Customer not available
+LOG000042,2026-07-28 16:52,SHP00077,Picked Up,D001,Ravi Kumar,Hyderabad,West,Traffic delay
+LOG000043,2026-07-29 16:52,SHP00183,Delivered,D002,Suresh Patel,Delhi,East,Traffic delay
+LOG000044,2026-07-27 16:52,SHP00140,Returned to Hub,D002,Suresh Patel,Chennai,West,Traffic delay
+LOG000045,2026-07-28 16:52,SHP00163,Delivery Failed,D004,Priya Sharma,Chennai,North,Wrong address
+LOG000046,2026-07-28 16:52,SHP00101,Out for Delivery,D004,Priya Sharma,Chennai,South,Traffic delay
+LOG000047,2026-07-29 16:52,SHP00141,In Transit,D003,Anand Verma,Hyderabad,Central,Wrong address
+LOG000048,2026-07-29 16:52,SHP00168,Delivery Failed,D003,Anand Verma,Chennai,Central,Wrong address
+LOG000049,2026-07-27 16:52,SHP00091,Out for Delivery,D005,Deepak Singh,Delhi,North,Wrong address
+LOG000050,2026-07-27 16:52,SHP00111,Picked Up,D002,Suresh Patel,Chennai,East,Customer not available
+LOG000051,2026-07-29 16:52,SHP00139,Delivered,D002,Suresh Patel,Kolkata,East,
+LOG000052,2026-07-28 16:52,SHP00153,In Transit,D003,Anand Verma,Kolkata,Central,Customer not available
+LOG000053,2026-07-29 16:52,SHP00075,In Transit,D004,Priya Sharma,Chennai,North,
+LOG000054,2026-07-29 16:52,SHP00180,Delivery Failed,D006,Kavita Reddy,Kolkata,Central,Customer not available
+LOG000055,2026-07-28 16:52,SHP00006,Out for Delivery,D002,Suresh Patel,Pune,South,
+LOG000056,2026-07-29 16:52,SHP00119,Returned to Hub,D001,Ravi Kumar,Chennai,Central,
+LOG000057,2026-07-29 16:52,SHP00168,Returned to Hub,D002,Suresh Patel,Hyderabad,North,
+LOG000058,2026-07-29 16:52,SHP00022,Delivery Failed,D004,Priya Sharma,Kolkata,South,Customer not available
+LOG000059,2026-07-27 16:52,SHP00162,Out for Delivery,D004,Priya Sharma,Kolkata,North,Wrong address
+LOG000060,2026-07-27 16:52,SHP00097,In Transit,D004,Priya Sharma,Pune,East,Traffic delay
+LOG000061,2026-07-29 16:52,SHP00084,Delivery Failed,D004,Priya Sharma,Pune,North,
+LOG000062,2026-07-28 16:52,SHP00140,Returned to Hub,D004,Priya Sharma,Bangalore,Central,
+LOG000063,2026-07-27 16:52,SHP00128,Picked Up,D003,Anand Verma,Delhi,Central,
+LOG000064,2026-07-29 16:52,SHP00144,Returned to Hub,D002,Suresh Patel,Hyderabad,East,
+LOG000065,2026-07-28 16:52,SHP00195,Delivery Failed,D003,Anand Verma,Hyderabad,East,Customer not available
+LOG000066,2026-07-28 16:52,SHP00118,Picked Up,D001,Ravi Kumar,Chennai,East,
+LOG000067,2026-07-29 16:52,SHP00198,Picked Up,D006,Kavita Reddy,Mumbai,North,Customer not available
+LOG000068,2026-07-28 16:52,SHP00026,Delivery Failed,D004,Priya Sharma,Hyderabad,East,Customer not available
+LOG000069,2026-07-27 16:52,SHP00149,Delivered,D005,Deepak Singh,Hyderabad,South,
+LOG000070,2026-07-27 16:52,SHP00120,Picked Up,D003,Anand Verma,Hyderabad,West,Traffic delay
+LOG000071,2026-07-28 16:52,SHP00127,Delivery Failed,D005,Deepak Singh,Chennai,West,
+LOG000072,2026-07-29 16:52,SHP00080,Delivery Failed,D003,Anand Verma,Hyderabad,East,Wrong address
+LOG000073,2026-07-27 16:52,SHP00062,Picked Up,D005,Deepak Singh,Bangalore,Central,Traffic delay
+LOG000074,2026-07-27 16:52,SHP00031,Returned to Hub,D004,Priya Sharma,Chennai,North,Customer not available
+LOG000075,2026-07-28 16:52,SHP00177,In Transit,D005,Deepak Singh,Chennai,West,Customer not available
+LOG000076,2026-07-27 16:52,SHP00051,In Transit,D004,Priya Sharma,Hyderabad,North,Wrong address
+LOG000077,2026-07-29 16:52,SHP00058,Picked Up,D003,Anand Verma,Chennai,West,
+LOG000078,2026-07-28 16:52,SHP00189,Delivery Failed,D006,Kavita Reddy,Mumbai,Central,Wrong address
+LOG000079,2026-07-29 16:52,SHP00124,Delivered,D006,Kavita Reddy,Pune,Central,Wrong address
+LOG000080,2026-07-29 16:52,SHP00055,Returned to Hub,D003,Anand Verma,Mumbai,West,
+LOG000081,2026-07-27 16:52,SHP00114,Delivery Failed,D004,Priya Sharma,Kolkata,South,
+LOG000082,2026-07-29 16:52,SHP00046,Delivered,D006,Kavita Reddy,Mumbai,North,Traffic delay
+LOG000083,2026-07-29 16:52,SHP00028,In Transit,D006,Kavita Reddy,Hyderabad,Central,Wrong address
+LOG000084,2026-07-29 16:52,SHP00145,In Transit,D005,Deepak Singh,Mumbai,West,Wrong address
+LOG000085,2026-07-29 16:52,SHP00160,Picked Up,D005,Deepak Singh,Bangalore,Central,Customer not available
+LOG000086,2026-07-27 16:52,SHP00127,Delivered,D001,Ravi Kumar,Pune,West,
+LOG000087,2026-07-28 16:52,SHP00059,Out for Delivery,D002,Suresh Patel,Pune,South,Wrong address
+LOG000088,2026-07-27 16:52,SHP00011,Delivery Failed,D005,Deepak Singh,Delhi,South,
+LOG000089,2026-07-27 16:52,SHP00081,Delivered,D005,Deepak Singh,Mumbai,East,Traffic delay
+LOG000090,2026-07-27 16:52,SHP00171,Out for Delivery,D003,Anand Verma,Pune,South,
+LOG000091,2026-07-27 16:52,SHP00040,Out for Delivery,D002,Suresh Patel,Delhi,South,Customer not available
+LOG000092,2026-07-28 16:52,SHP00002,Delivery Failed,D005,Deepak Singh,Pune,Central,Wrong address
+LOG000093,2026-07-27 16:52,SHP00045,Delivered,D002,Suresh Patel,Kolkata,North,
+LOG000094,2026-07-29 16:52,SHP00077,Out for Delivery,D002,Suresh Patel,Mumbai,Central,
+LOG000095,2026-07-29 16:52,SHP00172,Returned to Hub,D003,Anand Verma,Pune,North,Traffic delay
+LOG000096,2026-07-27 16:52,SHP00002,Delivery Failed,D006,Kavita Reddy,Delhi,North,
+LOG000097,2026-07-27 16:52,SHP00023,Out for Delivery,D004,Priya Sharma,Pune,West,Wrong address
+LOG000098,2026-07-29 16:52,SHP00072,Delivered,D006,Kavita Reddy,Delhi,Central,Wrong address
+LOG000099,2026-07-28 16:52,SHP00020,Returned to Hub,D003,Anand Verma,Chennai,East,
+LOG000100,2026-07-29 16:52,SHP00117,Delivered,D005,Deepak Singh,Pune,North,Traffic delay
+LOG000101,2026-07-28 16:52,SHP00093,Picked Up,D005,Deepak Singh,Pune,South,
+LOG000102,2026-07-28 16:52,SHP00051,Delivery Failed,D004,Priya Sharma,Hyderabad,Central,Traffic delay
+LOG000103,2026-07-28 16:52,SHP00145,Delivery Failed,D004,Priya Sharma,Chennai,West,
+LOG000104,2026-07-29 16:52,SHP00031,Out for Delivery,D004,Priya Sharma,Pune,East,Traffic delay
+LOG000105,2026-07-29 16:52,SHP00132,Picked Up,D006,Kavita Reddy,Mumbai,West,
+LOG000106,2026-07-28 16:52,SHP00103,In Transit,D003,Anand Verma,Pune,North,Customer not available
+LOG000107,2026-07-27 16:52,SHP00171,In Transit,D004,Priya Sharma,Pune,West,
+LOG000108,2026-07-29 16:52,SHP00141,Delivered,D002,Suresh Patel,Kolkata,West,
+LOG000109,2026-07-29 16:52,SHP00164,In Transit,D006,Kavita Reddy,Bangalore,Central,Traffic delay
+LOG000110,2026-07-28 16:52,SHP00121,Delivery Failed,D005,Deepak Singh,Pune,East,Wrong address
+LOG000111,2026-07-27 16:52,SHP00147,Picked Up,D005,Deepak Singh,Bangalore,West,Wrong address
+LOG000112,2026-07-28 16:52,SHP00076,Picked Up,D001,Ravi Kumar,Hyderabad,West,Wrong address
+LOG000113,2026-07-29 16:52,SHP00166,In Transit,D003,Anand Verma,Pune,Central,Traffic delay
+LOG000114,2026-07-27 16:52,SHP00104,Returned to Hub,D001,Ravi Kumar,Pune,South,
+LOG000115,2026-07-27 16:52,SHP00098,Picked Up,D002,Suresh Patel,Delhi,South,Traffic delay
+LOG000116,2026-07-28 16:52,SHP00099,Returned to Hub,D003,Anand Verma,Pune,North,
+LOG000117,2026-07-27 16:52,SHP00047,Picked Up,D003,Anand Verma,Delhi,West,
+LOG000118,2026-07-27 16:52,SHP00183,Picked Up,D003,Anand Verma,Pune,South,Customer not available
+LOG000119,2026-07-27 16:52,SHP00010,Delivered,D006,Kavita Reddy,Hyderabad,East,Traffic delay
+LOG000120,2026-07-29 16:52,SHP00190,Returned to Hub,D005,Deepak Singh,Delhi,Central,Wrong address
+LOG000121,2026-07-28 16:52,SHP00170,In Transit,D005,Deepak Singh,Hyderabad,South,Customer not available
+LOG000122,2026-07-27 16:52,SHP00135,Delivery Failed,D001,Ravi Kumar,Pune,Central,Wrong address
+LOG000123,2026-07-29 16:52,SHP00060,Delivery Failed,D003,Anand Verma,Hyderabad,South,
+LOG000124,2026-07-27 16:52,SHP00024,Picked Up,D002,Suresh Patel,Bangalore,North,Traffic delay
+LOG000125,2026-07-29 16:52,SHP00127,Out for Delivery,D004,Priya Sharma,Pune,West,Wrong address
+LOG000126,2026-07-28 16:52,SHP00058,Out for Delivery,D002,Suresh Patel,Delhi,Central,Traffic delay
+LOG000127,2026-07-28 16:52,SHP00060,In Transit,D006,Kavita Reddy,Delhi,North,Traffic delay
+LOG000128,2026-07-29 16:52,SHP00041,Picked Up,D001,Ravi Kumar,Pune,Central,Traffic delay
+LOG000129,2026-07-29 16:52,SHP00179,Delivery Failed,D001,Ravi Kumar,Bangalore,South,Customer not available
+LOG000130,2026-07-29 16:52,SHP00138,Out for Delivery,D002,Suresh Patel,Hyderabad,East,
+LOG000131,2026-07-29 16:52,SHP00048,Delivery Failed,D004,Priya Sharma,Delhi,East,Traffic delay
+LOG000132,2026-07-27 16:52,SHP00023,Picked Up,D001,Ravi Kumar,Hyderabad,West,Wrong address
+LOG000133,2026-07-28 16:52,SHP00115,Picked Up,D006,Kavita Reddy,Pune,East,
+LOG000134,2026-07-27 16:52,SHP00135,Returned to Hub,D004,Priya Sharma,Chennai,Central,Traffic delay
+LOG000135,2026-07-28 16:52,SHP00102,Out for Delivery,D004,Priya Sharma,Chennai,North,Wrong address
+LOG000136,2026-07-27 16:52,SHP00144,Delivery Failed,D006,Kavita Reddy,Mumbai,North,Customer not available
+LOG000137,2026-07-29 16:52,SHP00092,Picked Up,D002,Suresh Patel,Delhi,West,Customer not available
+LOG000138,2026-07-27 16:52,SHP00050,In Transit,D002,Suresh Patel,Bangalore,Central,
+LOG000139,2026-07-27 16:52,SHP00147,Delivery Failed,D005,Deepak Singh,Chennai,Central,Customer not available
+LOG000140,2026-07-28 16:52,SHP00054,Delivery Failed,D006,Kavita Reddy,Pune,Central,Customer not available
+LOG000141,2026-07-29 16:52,SHP00006,Out for Delivery,D004,Priya Sharma,Chennai,West,Wrong address
+LOG000142,2026-07-29 16:52,SHP00071,Returned to Hub,D003,Anand Verma,Bangalore,West,
+LOG000143,2026-07-29 16:52,SHP00005,Delivered,D006,Kavita Reddy,Hyderabad,Central,Traffic delay
+LOG000144,2026-07-29 16:52,SHP00122,Returned to Hub,D002,Suresh Patel,Delhi,Central,
+LOG000145,2026-07-27 16:52,SHP00123,Returned to Hub,D004,Priya Sharma,Pune,West,
+LOG000146,2026-07-28 16:52,SHP00171,Picked Up,D001,Ravi Kumar,Chennai,Central,
+LOG000147,2026-07-29 16:52,SHP00081,Out for Delivery,D002,Suresh Patel,Bangalore,South,
+LOG000148,2026-07-27 16:52,SHP00056,Returned to Hub,D002,Suresh Patel,Pune,South,Wrong address
+LOG000149,2026-07-29 16:52,SHP00153,Delivered,D003,Anand Verma,Kolkata,South,Customer not available
+LOG000150,2026-07-29 16:52,SHP00058,In Transit,D002,Suresh Patel,Chennai,Central,
+LOG000151,2026-07-29 16:52,SHP00090,Returned to Hub,D003,Anand Verma,Pune,West,Traffic delay
+LOG000152,2026-07-28 16:52,SHP00110,Returned to Hub,D002,Suresh Patel,Chennai,West,Customer not available
+LOG000153,2026-07-27 16:52,SHP00193,Picked Up,D005,Deepak Singh,Bangalore,East,Traffic delay
+LOG000154,2026-07-27 16:52,SHP00070,Delivered,D003,Anand Verma,Mumbai,East,Customer not available
+LOG000155,2026-07-27 16:52,SHP00174,Delivery Failed,D001,Ravi Kumar,Delhi,West,
+LOG000156,2026-07-29 16:52,SHP00161,Picked Up,D006,Kavita Reddy,Kolkata,South,Traffic delay
+LOG000157,2026-07-27 16:52,SHP00160,Returned to Hub,D004,Priya Sharma,Hyderabad,South,Traffic delay
+LOG000158,2026-07-29 16:52,SHP00032,Returned to Hub,D006,Kavita Reddy,Pune,North,Traffic delay
+LOG000159,2026-07-28 16:52,SHP00021,Delivered,D006,Kavita Reddy,Hyderabad,East,Customer not available
+LOG000160,2026-07-27 16:52,SHP00028,Returned to Hub,D006,Kavita Reddy,Bangalore,South,Wrong address
+LOG000161,2026-07-28 16:52,SHP00096,In Transit,D001,Ravi Kumar,Bangalore,Central,
+LOG000162,2026-07-28 16:52,SHP00015,Delivered,D005,Deepak Singh,Kolkata,Central,Traffic delay
+LOG000163,2026-07-29 16:52,SHP00066,Out for Delivery,D005,Deepak Singh,Hyderabad,Central,
+LOG000164,2026-07-27 16:52,SHP00027,Picked Up,D003,Anand Verma,Delhi,West,Customer not available
+LOG000165,2026-07-27 16:52,SHP00129,Delivery Failed,D004,Priya Sharma,Hyderabad,North,
+LOG000166,2026-07-29 16:52,SHP00035,Returned to Hub,D005,Deepak Singh,Mumbai,South,
+LOG000167,2026-07-29 16:52,SHP00024,Delivered,D003,Anand Verma,Kolkata,North,
+LOG000168,2026-07-27 16:52,SHP00015,Delivered,D006,Kavita Reddy,Delhi,East,Customer not available
+LOG000169,2026-07-27 16:52,SHP00111,Returned to Hub,D004,Priya Sharma,Hyderabad,North,
+LOG000170,2026-07-29 16:52,SHP00070,In Transit,D004,Priya Sharma,Chennai,Central,Customer not available
+LOG000171,2026-07-27 16:52,SHP00071,Returned to Hub,D003,Anand Verma,Bangalore,South,Traffic delay
+LOG000172,2026-07-27 16:52,SHP00051,Delivery Failed,D001,Ravi Kumar,Delhi,North,
+LOG000173,2026-07-29 16:52,SHP00100,Out for Delivery,D006,Kavita Reddy,Hyderabad,North,
+LOG000174,2026-07-27 16:52,SHP00195,Picked Up,D006,Kavita Reddy,Kolkata,Central,
+LOG000175,2026-07-29 16:52,SHP00026,In Transit,D006,Kavita Reddy,Bangalore,North,Customer not available
+LOG000176,2026-07-28 16:52,SHP00125,Picked Up,D003,Anand Verma,Mumbai,Central,Wrong address
+LOG000177,2026-07-29 16:52,SHP00132,Returned to Hub,D002,Suresh Patel,Delhi,South,
+LOG000178,2026-07-27 16:52,SHP00018,Delivery Failed,D002,Suresh Patel,Hyderabad,Central,
+LOG000179,2026-07-27 16:52,SHP00071,Out for Delivery,D002,Suresh Patel,Chennai,South,Customer not available
+LOG000180,2026-07-28 16:52,SHP00073,Out for Delivery,D003,Anand Verma,Pune,East,Customer not available
+LOG000181,2026-07-28 16:52,SHP00112,Returned to Hub,D005,Deepak Singh,Mumbai,Central,Wrong address
+LOG000182,2026-07-28 16:52,SHP00067,In Transit,D006,Kavita Reddy,Delhi,West,
+LOG000183,2026-07-27 16:52,SHP00068,Delivered,D005,Deepak Singh,Pune,South,
+LOG000184,2026-07-27 16:52,SHP00103,Delivered,D006,Kavita Reddy,Chennai,West,
+LOG000185,2026-07-28 16:52,SHP00131,Delivery Failed,D006,Kavita Reddy,Chennai,South,Traffic delay
+LOG000186,2026-07-27 16:52,SHP00017,Delivered,D006,Kavita Reddy,Hyderabad,Central,Customer not available
+LOG000187,2026-07-27 16:52,SHP00187,In Transit,D005,Deepak Singh,Pune,South,
+LOG000188,2026-07-27 16:52,SHP00119,Returned to Hub,D005,Deepak Singh,Bangalore,North,Wrong address
+LOG000189,2026-07-27 16:52,SHP00169,Out for Delivery,D003,Anand Verma,Delhi,Central,Traffic delay
+LOG000190,2026-07-27 16:52,SHP00114,Delivered,D003,Anand Verma,Kolkata,East,Traffic delay
+LOG000191,2026-07-28 16:52,SHP00057,Delivery Failed,D005,Deepak Singh,Hyderabad,East,Wrong address
+LOG000192,2026-07-29 16:52,SHP00033,Picked Up,D001,Ravi Kumar,Pune,West,Wrong address
+LOG000193,2026-07-27 16:52,SHP00073,Out for Delivery,D005,Deepak Singh,Bangalore,North,Customer not available
+LOG000194,2026-07-29 16:52,SHP00193,Delivery Failed,D002,Suresh Patel,Delhi,Central,
+LOG000195,2026-07-28 16:52,SHP00034,Delivery Failed,D005,Deepak Singh,Hyderabad,North,
+LOG000196,2026-07-27 16:52,SHP00028,Out for Delivery,D006,Kavita Reddy,Delhi,South,
+LOG000197,2026-07-28 16:52,SHP00122,Returned to Hub,D005,Deepak Singh,Pune,North,Customer not available
+LOG000198,2026-07-27 16:52,SHP00003,Out for Delivery,D002,Suresh Patel,Kolkata,East,Customer not available
+LOG000199,2026-07-27 16:52,SHP00140,Delivery Failed,D003,Anand Verma,Kolkata,Central,Wrong address
+LOG000200,2026-07-29 16:52,SHP00142,Out for Delivery,D006,Kavita Reddy,Hyderabad,Central,
+LOG000201,2026-07-29 16:52,SHP00076,Delivered,D005,Deepak Singh,Pune,Central,Traffic delay
+LOG000202,2026-07-28 16:52,SHP00151,Out for Delivery,D002,Suresh Patel,Bangalore,North,
+LOG000203,2026-07-28 16:52,SHP00146,Delivered,D005,Deepak Singh,Chennai,Central,Wrong address
+LOG000204,2026-07-27 16:52,SHP00131,Out for Delivery,D006,Kavita Reddy,Mumbai,North,
+LOG000205,2026-07-29 16:52,SHP00116,Picked Up,D002,Suresh Patel,Chennai,South,Customer not available
+LOG000206,2026-07-28 16:52,SHP00182,Delivery Failed,D004,Priya Sharma,Bangalore,Central,Customer not available
+LOG000207,2026-07-29 16:52,SHP00141,Delivery Failed,D003,Anand Verma,Kolkata,North,Wrong address
+LOG000208,2026-07-29 16:52,SHP00065,Delivery Failed,D001,Ravi Kumar,Hyderabad,North,Wrong address
+LOG000209,2026-07-29 16:52,SHP00196,Out for Delivery,D005,Deepak Singh,Delhi,North,Wrong address
+LOG000210,2026-07-29 16:52,SHP00119,Delivered,D001,Ravi Kumar,Delhi,East,Wrong address
+LOG000211,2026-07-27 16:52,SHP00159,Delivered,D004,Priya Sharma,Bangalore,West,Wrong address
+LOG000212,2026-07-28 16:52,SHP00187,Returned to Hub,D006,Kavita Reddy,Delhi,East,Wrong address
+LOG000213,2026-07-28 16:52,SHP00107,Returned to Hub,D004,Priya Sharma,Hyderabad,Central,
+LOG000214,2026-07-28 16:52,SHP00068,Delivered,D005,Deepak Singh,Bangalore,West,
+LOG000215,2026-07-29 16:52,SHP00124,Returned to Hub,D004,Priya Sharma,Hyderabad,Central,
+LOG000216,2026-07-29 16:52,SHP00140,Out for Delivery,D002,Suresh Patel,Chennai,Central,
+LOG000217,2026-07-27 16:52,SHP00164,Picked Up,D006,Kavita Reddy,Bangalore,East,Customer not available
+LOG000218,2026-07-29 16:52,SHP00159,Picked Up,D006,Kavita Reddy,Chennai,West,Wrong address
+LOG000219,2026-07-29 16:52,SHP00136,Returned to Hub,D002,Suresh Patel,Hyderabad,Central,
+LOG000220,2026-07-28 16:52,SHP00034,Delivered,D002,Suresh Patel,Hyderabad,West,Customer not available
+LOG000221,2026-07-28 16:52,SHP00108,Delivery Failed,D006,Kavita Reddy,Kolkata,North,Wrong address
+LOG000222,2026-07-27 16:52,SHP00118,Out for Delivery,D003,Anand Verma,Chennai,West,Customer not available
+LOG000223,2026-07-29 16:52,SHP00142,Picked Up,D004,Priya Sharma,Delhi,West,Customer not available
+LOG000224,2026-07-27 16:52,SHP00196,In Transit,D004,Priya Sharma,Delhi,East,Traffic delay
+LOG000225,2026-07-29 16:52,SHP00137,Delivered,D001,Ravi Kumar,Chennai,North,
+LOG000226,2026-07-29 16:52,SHP00122,Picked Up,D002,Suresh Patel,Pune,Central,Traffic delay
+LOG000227,2026-07-28 16:52,SHP00161,Picked Up,D006,Kavita Reddy,Delhi,West,
+LOG000228,2026-07-27 16:52,SHP00073,Delivered,D002,Suresh Patel,Delhi,West,
+LOG000229,2026-07-27 16:52,SHP00200,Delivered,D001,Ravi Kumar,Delhi,North,Customer not available
+LOG000230,2026-07-29 16:52,SHP00108,Delivery Failed,D004,Priya Sharma,Bangalore,West,Customer not available
+LOG000231,2026-07-28 16:52,SHP00076,Out for Delivery,D001,Ravi Kumar,Mumbai,Central,
+LOG000232,2026-07-29 16:52,SHP00191,In Transit,D002,Suresh Patel,Pune,West,Wrong address
+LOG000233,2026-07-27 16:52,SHP00150,Picked Up,D004,Priya Sharma,Chennai,East,Wrong address
+LOG000234,2026-07-28 16:52,SHP00063,Delivery Failed,D004,Priya Sharma,Delhi,West,Customer not available
+LOG000235,2026-07-29 16:52,SHP00193,Out for Delivery,D006,Kavita Reddy,Pune,Central,Wrong address
+LOG000236,2026-07-28 16:52,SHP00187,Picked Up,D002,Suresh Patel,Delhi,West,Wrong address
+LOG000237,2026-07-29 16:52,SHP00100,Returned to Hub,D003,Anand Verma,Chennai,South,Wrong address
+LOG000238,2026-07-27 16:52,SHP00192,Out for Delivery,D005,Deepak Singh,Bangalore,South,
+LOG000239,2026-07-29 16:52,SHP00024,Out for Delivery,D006,Kavita Reddy,Delhi,North,Customer not available
+LOG000240,2026-07-29 16:52,SHP00059,In Transit,D004,Priya Sharma,Kolkata,North,
+LOG000241,2026-07-28 16:52,SHP00055,Delivered,D002,Suresh Patel,Mumbai,East,
+LOG000242,2026-07-27 16:52,SHP00111,Out for Delivery,D004,Priya Sharma,Chennai,South,Traffic delay
+LOG000243,2026-07-29 16:52,SHP00188,Returned to Hub,D001,Ravi Kumar,Bangalore,South,
+LOG000244,2026-07-29 16:52,SHP00052,Returned to Hub,D006,Kavita Reddy,Delhi,South,Customer not available
+LOG000245,2026-07-28 16:52,SHP00144,In Transit,D002,Suresh Patel,Kolkata,West,Traffic delay
+LOG000246,2026-07-28 16:52,SHP00020,Out for Delivery,D005,Deepak Singh,Chennai,North,Customer not available
+LOG000247,2026-07-29 16:52,SHP00134,Returned to Hub,D003,Anand Verma,Bangalore,Central,
+LOG000248,2026-07-28 16:52,SHP00159,Delivered,D001,Ravi Kumar,Bangalore,North,Customer not available
+LOG000249,2026-07-29 16:52,SHP00091,Returned to Hub,D004,Priya Sharma,Kolkata,North,
+LOG000250,2026-07-27 16:52,SHP00045,Out for Delivery,D003,Anand Verma,Kolkata,Central,Wrong address
+LOG000251,2026-07-28 16:52,SHP00141,Out for Delivery,D006,Kavita Reddy,Pune,Central,Wrong address
+LOG000252,2026-07-28 16:52,SHP00066,Out for Delivery,D006,Kavita Reddy,Delhi,West,Traffic delay
+LOG000253,2026-07-27 16:52,SHP00069,Picked Up,D001,Ravi Kumar,Mumbai,North,Wrong address
+LOG000254,2026-07-27 16:52,SHP00163,Delivery Failed,D004,Priya Sharma,Delhi,North,Customer not available
+LOG000255,2026-07-27 16:52,SHP00130,Delivery Failed,D006,Kavita Reddy,Chennai,South,
+LOG000256,2026-07-28 16:52,SHP00166,Delivery Failed,D004,Priya Sharma,Mumbai,West,Customer not available
+LOG000257,2026-07-29 16:52,SHP00088,Delivery Failed,D002,Suresh Patel,Chennai,South,Traffic delay
+LOG000258,2026-07-28 16:52,SHP00084,Picked Up,D001,Ravi Kumar,Chennai,Central,
+LOG000259,2026-07-29 16:52,SHP00115,Returned to Hub,D001,Ravi Kumar,Delhi,South,
+LOG000260,2026-07-28 16:52,SHP00098,Picked Up,D003,Anand Verma,Kolkata,East,
+LOG000261,2026-07-27 16:52,SHP00002,Out for Delivery,D005,Deepak Singh,Bangalore,East,Customer not available
+LOG000262,2026-07-28 16:52,SHP00015,Returned to Hub,D001,Ravi Kumar,Pune,South,Customer not available
+LOG000263,2026-07-27 16:52,SHP00087,Returned to Hub,D002,Suresh Patel,Kolkata,Central,
+LOG000264,2026-07-27 16:52,SHP00004,Delivered,D006,Kavita Reddy,Kolkata,West,
+LOG000265,2026-07-29 16:52,SHP00186,Delivery Failed,D004,Priya Sharma,Hyderabad,East,
+LOG000266,2026-07-28 16:52,SHP00183,Delivery Failed,D005,Deepak Singh,Pune,West,
+LOG000267,2026-07-29 16:52,SHP00160,Picked Up,D002,Suresh Patel,Chennai,South,Traffic delay
+LOG000268,2026-07-29 16:52,SHP00149,Out for Delivery,D001,Ravi Kumar,Bangalore,Central,
+LOG000269,2026-07-27 16:52,SHP00109,In Transit,D006,Kavita Reddy,Chennai,East,Customer not available
+LOG000270,2026-07-28 16:52,SHP00107,Delivery Failed,D006,Kavita Reddy,Pune,West,
+LOG000271,2026-07-27 16:52,SHP00082,Delivered,D002,Suresh Patel,Hyderabad,Central,Customer not available
+LOG000272,2026-07-27 16:52,SHP00027,Returned to Hub,D005,Deepak Singh,Delhi,North,Customer not available
+LOG000273,2026-07-29 16:52,SHP00067,Returned to Hub,D002,Suresh Patel,Delhi,East,Customer not available
+LOG000274,2026-07-27 16:52,SHP00174,Out for Delivery,D004,Priya Sharma,Mumbai,South,Wrong address
+LOG000275,2026-07-28 16:52,SHP00088,In Transit,D002,Suresh Patel,Delhi,North,Wrong address
+LOG000276,2026-07-28 16:52,SHP00002,In Transit,D004,Priya Sharma,Bangalore,Central,Customer not available
+LOG000277,2026-07-28 16:52,SHP00182,Delivered,D003,Anand Verma,Mumbai,Central,
+LOG000278,2026-07-29 16:52,SHP00176,In Transit,D006,Kavita Reddy,Bangalore,West,
+LOG000279,2026-07-27 16:52,SHP00011,Delivery Failed,D004,Priya Sharma,Pune,West,Wrong address
+LOG000280,2026-07-29 16:52,SHP00033,Out for Delivery,D006,Kavita Reddy,Pune,North,Customer not available
+LOG000281,2026-07-27 16:52,SHP00189,Picked Up,D003,Anand Verma,Delhi,South,
+LOG000282,2026-07-29 16:52,SHP00035,Out for Delivery,D004,Priya Sharma,Pune,West,Wrong address
+LOG000283,2026-07-28 16:52,SHP00127,In Transit,D004,Priya Sharma,Kolkata,South,Traffic delay
+LOG000284,2026-07-28 16:52,SHP00143,In Transit,D006,Kavita Reddy,Mumbai,South,Wrong address
+LOG000285,2026-07-27 16:52,SHP00128,Picked Up,D004,Priya Sharma,Pune,Central,Traffic delay
+LOG000286,2026-07-27 16:52,SHP00056,In Transit,D004,Priya Sharma,Hyderabad,South,Wrong address
+LOG000287,2026-07-28 16:52,SHP00081,Returned to Hub,D006,Kavita Reddy,Hyderabad,South,
+LOG000288,2026-07-28 16:52,SHP00088,In Transit,D001,Ravi Kumar,Mumbai,North,
+LOG000289,2026-07-28 16:52,SHP00043,Delivered,D005,Deepak Singh,Hyderabad,West,
+LOG000290,2026-07-28 16:52,SHP00020,Picked Up,D005,Deepak Singh,Chennai,West,
+LOG000291,2026-07-27 16:52,SHP00121,In Transit,D003,Anand Verma,Mumbai,South,
+LOG000292,2026-07-27 16:52,SHP00041,Delivery Failed,D005,Deepak Singh,Kolkata,North,
+LOG000293,2026-07-27 16:52,SHP00151,In Transit,D002,Suresh Patel,Chennai,North,Wrong address
+LOG000294,2026-07-29 16:52,SHP00192,Delivered,D006,Kavita Reddy,Chennai,West,Wrong address
+LOG000295,2026-07-27 16:52,SHP00192,In Transit,D001,Ravi Kumar,Delhi,East,Customer not available
+LOG000296,2026-07-28 16:52,SHP00171,Delivered,D001,Ravi Kumar,Chennai,Central,
+LOG000297,2026-07-29 16:52,SHP00071,Delivery Failed,D002,Suresh Patel,Mumbai,Central,
+LOG000298,2026-07-27 16:52,SHP00175,Delivered,D003,Anand Verma,Bangalore,South,Wrong address
+LOG000299,2026-07-29 16:52,SHP00135,Out for Delivery,D006,Kavita Reddy,Bangalore,East,Customer not available
+LOG000300,2026-07-27 16:52,SHP00114,In Transit,D001,Ravi Kumar,Hyderabad,South,Customer not available

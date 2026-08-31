@@ -1,0 +1,27 @@
+{
+  "North": {
+    "hub": "North Hub",
+    "sla_hours": 48,
+    "routes": 15
+  },
+  "South": {
+    "hub": "South Hub",
+    "sla_hours": 48,
+    "routes": 12
+  },
+  "East": {
+    "hub": "East Hub",
+    "sla_hours": 48,
+    "routes": 11
+  },
+  "West": {
+    "hub": "West Hub",
+    "sla_hours": 48,
+    "routes": 14
+  },
+  "Central": {
+    "hub": "Central Hub",
+    "sla_hours": 24,
+    "routes": 8
+  }
+}
